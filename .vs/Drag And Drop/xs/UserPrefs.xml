@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{43F25331-A317-F962-FCDA-F74CC6BEEF0D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ItemPool.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DragHandler.cs" Line="43" Column="29" />
+      <File FileName="Assets/Scripts/DropSlot.cs" Line="12" Column="27" />
+      <File FileName="Assets/Scripts/ItemPool.cs" Line="11" Column="67" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
